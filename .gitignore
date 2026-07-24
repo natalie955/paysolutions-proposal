@@ -1,0 +1,11 @@
+# Internal / commercially sensitive — never publish
+*INTERNAL*
+*internal*
+*costing*
+*margin*
+
+# OS / editor noise
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
